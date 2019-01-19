@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+ml-latest-small
+.idea
+ml-latest-small.zip
